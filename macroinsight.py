@@ -27,7 +27,7 @@ st.markdown("""
     .sub-header {
         font-size: 1.5rem;
         font-weight: 600;
-        color: #2563EB;
+        color: #2563EB!important;
         margin-top: 1.5rem;
         margin-bottom: 0.5rem;
         border-bottom: 2px solid #BFDBFE;
@@ -39,6 +39,7 @@ st.markdown("""
         padding: 1rem;
         margin-bottom: 1rem;
         border-radius: 0.5rem;
+        color: #2563EB!important;
     }
     .impact-high {
         color: #DC2626;
